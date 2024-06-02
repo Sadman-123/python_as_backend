@@ -13,4 +13,3 @@ def first():
         "Dept":"CSE",
     }
     return jsonify(dat)
-app.run()
